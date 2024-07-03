@@ -1,2 +1,4 @@
-# E-commerce-flutter
-An E-commerce app made using flutter and firebase
+# E-commerceApp
+
+A new Flutter project.
+

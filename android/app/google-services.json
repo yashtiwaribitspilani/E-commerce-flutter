@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "876440760888",
+    "project_id": "startup-a54cf",
+    "storage_bucket": "startup-a54cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876440760888:android:f01de9d33eb85469e8accd",
+        "android_client_info": {
+          "package_name": "com.dazzledud.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876440760888-e2h5h38u7ca0gpouit85teb061nv1nmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dazzledud.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "876440760888-q1hhdmhvg7hm8mcocq2fpfco2or7b9i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMuIRYuhu77TdwTE5f89jEDLlZ6q0yYOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876440760888-q1hhdmhvg7hm8mcocq2fpfco2or7b9i4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "876440760888-2pfu3jsrik3oq56ks2dalogfl1apo7qc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dazzledud.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876440760888:android:fa088ec6f756b7e5e8accd",
+        "android_client_info": {
+          "package_name": "com.foundersync.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876440760888-hf2q24ekktrm075fvgkp0tkj6fchj6a2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foundersync.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "876440760888-hk9968vsa3pimn5ck2qimuenhf7a5dfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foundersync.app",
+            "certificate_hash": "ece2de08296846ad13f997ea23c8c1b94c9b5ef0"
+          }
+        },
+        {
+          "client_id": "876440760888-q1hhdmhvg7hm8mcocq2fpfco2or7b9i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMuIRYuhu77TdwTE5f89jEDLlZ6q0yYOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876440760888-q1hhdmhvg7hm8mcocq2fpfco2or7b9i4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "876440760888-2pfu3jsrik3oq56ks2dalogfl1apo7qc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dazzledud.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
