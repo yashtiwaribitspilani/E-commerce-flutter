@@ -1,2 +1,7 @@
-# E-commerce-flutter
-An E-commerce app made using flutter and firebase
+# E-commerceApp
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
